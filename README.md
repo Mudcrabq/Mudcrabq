@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Vitaliy <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Frontend Developer from Russia 🇷🇺 <p>On my own, I am deepening my knowledge of JavaScript and React, improving my layout skills.</p></h3>
-<h2></h2>
+<details>
+  <img align="left" src="https://github-readme-stats-two-orcin-12.vercel.app/api?username=Mudcrabq&show_icons=true&theme=transparent">
+</details>
 <!--
 **Mudcrabq/Mudcrabq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
