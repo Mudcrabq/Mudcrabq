@@ -1,11 +1,15 @@
 <h1 align="center">Hi there, I'm Vitaliy <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Frontend Developer from Russia 🇷🇺 <p>On my own, I am deepening my knowledge of JavaScript and React, improving my layout skills.</p></h3>
 
-  <img align="left" src="https://github-readme-stats-two-orcin-12.vercel.app/api?username=Mudcrabq&show_icons=true&theme=transparent" />
+1. first item 
+2. second item
+    1. qwe
+    2. qwe
+3. third item 
   
 <!--
 **Mudcrabq/Mudcrabq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="left" src="https://github-readme-stats-two-orcin-12.vercel.app/api?username=Mudcrabq&show_icons=true&theme=transparent" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
