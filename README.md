@@ -4,8 +4,6 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg"  />][twitch]
 <img height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-[![Spotify](https://novatorem-mudcrabq.vercel.app/api/spotify)](https://open.spotify.com/user/c5h7422ystt4kxxw28xov2x9d)
-
 [twitch]: https://www.twitch.tv/mudcrabq
 <!--
 **Mudcrabq/Mudcrabq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
